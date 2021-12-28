@@ -15,7 +15,7 @@ Bruteforce attack for Facebook Account
 >> cd FB-28-12-2021
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
->> python3 FORCE.py or python SHOOT2.py
+>> python3 FORCE.py or python SHOOT.py
 ```
 
 ## Screenshots
