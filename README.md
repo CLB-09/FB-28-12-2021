@@ -12,7 +12,7 @@ Bruteforce attack for Facebook Account
 ## Run commands one by one
 ```
 >> git clone https://github.com/CLB-09/FB-28-12-2021
->> cd Facebook-BruteForce
+>> cd FB-28-12-2021
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
 >> python3 FORCE.py or python SHOOT2.py
